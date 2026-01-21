@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+firebase-admin
+plotly
+xlrd
