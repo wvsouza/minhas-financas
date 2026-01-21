@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+firebase-admin
+plotly
+opencv-python-headless
+numpy
+requests
+beautifulsoup4
